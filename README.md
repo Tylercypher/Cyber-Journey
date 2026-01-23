@@ -23,3 +23,4 @@ This repo documents my cybersecurity journey from beginner → job-ready using h
 
 ## Weekly Notes Index
 - [2026 – Week 01 (Jan 13–Jan 19)](weekly-notes/2026-W01.md)
+- [2026 – Week 02 (Jan 19–Jan 26)](weekly-notes/2026-W02.md)
