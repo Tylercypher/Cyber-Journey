@@ -13,10 +13,10 @@ This repo documents my cybersecurity journey from beginner → job-ready using h
 ## Lab Evidence (Week 1)
 
 ### Windows 11 joined to domain
-![Domain Joined](assets/screenshots/2026-W01/win11-domain-joined.png)
+![Domain Joined](weekly-notes/assets/screenshots/2026-W01/win11-domain-joined.png)
 
 ### Windows 11 DNS points to Domain Controller
-![DNS to DC](assets/screenshots/2026-W01/win11-ipconfig-dns.png)
+![DNS to DC](weekly-notes/assets/screenshots/2026-W01/win11-ipconfig-dns.png)
 
 ## Projects Index
 - (coming soon)
